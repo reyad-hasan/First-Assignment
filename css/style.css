@@ -228,3 +228,56 @@ header {
     width: 320px;
     height: 400px;
 }
+
+/* get the section start from here */
+.get-the-main-container {
+    height: 50vh;
+    margin: 0px 250px;
+    margin-bottom: 130px;
+    background-image: url(../flower/Rectangle9.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.get-the-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.get-the-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 10px 0px;
+}
+
+
+.get-the-email {
+    border-radius: 8px;
+    background: #FFF;
+    border: 0;
+    padding: 15px 500px 15px 15px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 30px;
+}
+
+.get-tne-btn {
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 15px;
+    border: 0;
+    padding: 15px 30px;
+    margin-left: 10px;
+}
