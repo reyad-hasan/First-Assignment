@@ -194,3 +194,37 @@ header {
     color: #fff;
     font-size: 18px;
 }
+
+/* instagram section styles start from here */
+.instagram-main-container {
+    height: 65vh;
+    padding: 0px 250px;
+    margin: 90px 0px;
+}
+
+.instagram-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+
+.instagram-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.instagram-box-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0px;
+}
+
+.instagram-image {
+    width: 320px;
+    height: 400px;
+}
